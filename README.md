@@ -1,2 +1,2 @@
 # hello-world
-Pog
+J'essaye d'assimiler le fonctionnement de git/github
